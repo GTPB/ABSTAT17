@@ -1,5 +1,5 @@
 
-# Advanced Biostatistics 
+# Advanced Biostatistics
 ## for Bioinformatics Tool Users (using R)
 
 
@@ -47,12 +47,3 @@ Additionally, we suggest that candidates acquire familiarity with RStudio by vis
 - Tutorial R and R Studio (complete)
 
 R Studio will be used in the course to ease-up interaction and increase productivity, but people that prefer the original R environment on the command line will be able to follow that preference
-
-
-Learning objectives:
-
-
-
-Learning outcomes:
-
-Exercises
