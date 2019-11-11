@@ -1,4 +1,4 @@
-## ABSTAT18 - Advanced Biostatistics for Bioinformatics Tool Users using R
+## ABSTAT17 - Advanced Biostatistics for Bioinformatics Tool Users using R
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 10<sup>rd</sup> - April 13<sup>th</sup> 2017
 
